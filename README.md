@@ -43,7 +43,7 @@ DE 811582102
 
 ### Inhaltlich Verantwortlicher gemäß § 55 RStV
 
-Dr. Ing. Jürgen Meister
+Dr. Ing. Jürgen Meister  
 OFFIS e.V.  
 Escherweg 2  
 26121 Oldenburg
@@ -87,7 +87,7 @@ DE 811582102
 
 ### Responsible in the sense of § 55 RStV
 
-Dr. Ing. Jürgen Meister
+Dr. Ing. Jürgen Meister  
 OFFIS e.V.  
 Escherweg 2  
 26121 Oldenburg
