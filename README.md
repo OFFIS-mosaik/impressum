@@ -28,9 +28,10 @@ Internet: [www.offis.de][offis]
 
 ### Vertretungsberechtigter Vorstand
 
-Prof. Dr. Sebastian Lehnhoff (Vorsitzender)
-Prof. Dr. techn. Susanne Boll-Westermann
-Prof. Dr.-Ing. Andreas Hein
+Prof. Dr. Sebastian Lehnhoff (Vorsitzender)  
+Prof. Dr. techn. Susanne Boll-Westermann  
+Prof. Dr.-Ing. Andreas Hein  
+Prof. Dr.-Ing. Astrid Nieße
 
 ### Registergericht
 
@@ -72,9 +73,10 @@ Internet: [www.offis.de][offis]
 
 ### Board Members
 
-Prof. Dr. Sebastian Lehnhoff (Chairman)
-Prof. Dr. techn. Susanne Boll-Westermann
-Prof. Dr.-Ing. Andreas Hein
+Prof. Dr. Sebastian Lehnhoff (Chairman)  
+Prof. Dr. techn. Susanne Boll-Westermann  
+Prof. Dr.-Ing. Andreas Hein  
+Prof. Dr.-Ing. Astrid Nieße
 
 ### Register Court
 
